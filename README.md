@@ -7,7 +7,7 @@ Implementation of the paper:
       eprint={2603.25132},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.25132}, 
+      url="https://arxiv.org/abs/2603.25132"
 }
 
 Remember to decompress \Methods\Tools\tensor_toolbox_2.5.zip  before running the code
