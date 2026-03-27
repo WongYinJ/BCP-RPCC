@@ -1,4 +1,5 @@
-Implementation of the paper
+Implementation of the paper:
+
 @misc{Wang2026RPCC,
       title={Robust Principal Component Completion}, 
       author={Yinjian Wang and Wei Li and Yuanyuan Gui and James E. Fowler and Gemine Vivone},
